@@ -1,0 +1,3 @@
+/media/kedarbrooks/UsbStorage/Prime_Decomposition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/kedarbrooks/UsbStorage/Prime_Decomposition/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/kedarbrooks/UsbStorage/Prime_Decomposition/cmake-build-debug/CMakeFiles/Prime_Decomposition.dir

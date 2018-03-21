@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Prime_Decomposition.dir/main.cpp.o  -o Prime_Decomposition 
